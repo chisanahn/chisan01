@@ -9,7 +9,9 @@
   <!--   ![Chisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chisan01&show_icons=true) -->
   <img src="https://github-readme-stats.vercel.app/api?username=chisan01&show_icons=true" alt="Chisan's GitHub stats" height="150">
   <!--   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkscltks)](https://solved.ac/dkscltks) -->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkscltks" alt="Solved.ac 프로필 (dkscltks)" height="150">
+  <a href="https://solved.ac/profile/dkscltks">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkscltks" alt="Solved.ac 프로필 (dkscltks)" height="150">
+  </a>
 </p>
 
 
