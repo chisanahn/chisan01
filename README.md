@@ -17,7 +17,9 @@
 </p>
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/chisan01?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode 프로필 (chisan01)" height="270">
+  <a href="https://leetcode.com/chisan01/">
+    <img src="https://leetcard.jacoblin.cool/chisan01?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode 프로필 (chisan01)" height="270">
+  </a>
 </p>
 
 <!--
