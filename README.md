@@ -22,12 +22,11 @@
   </a>
 </p>
 
-<p>
+<!-- <p>
   <a href="https://leetcode.com/chisan01/">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=chisan01" alt="LeetCode Badges"/>
   </a>
-</p>
-
+</p> -->
 
 <!--
 **chisan01/chisan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
