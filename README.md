@@ -1,4 +1,4 @@
-# Hi there 👋
+<!-- # Hi there 👋 -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchisan01&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  -->
 
 <!--
@@ -9,18 +9,19 @@
 
 <p>
   <!--   ![Chisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chisan01&show_icons=true) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chisan01&show_icons=true" alt="Chisan's GitHub stats" height="150">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=chisan01&show_icons=true" alt="Chisan's GitHub stats" height="150">
   <!--   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkscltks)](https://solved.ac/dkscltks) -->
   <a href="https://solved.ac/profile/dkscltks">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkscltks" alt="Solved.ac 프로필 (dkscltks)" height="150">
   </a>
 </p>
-
+<!-- 
 <p>
   <a href="https://leetcode.com/chisan01/">
     <img src="https://leetcard.jacoblin.cool/chisan01?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode 프로필 (chisan01)">
   </a>
 </p>
+-->
 
 <!-- <p>
   <a href="https://leetcode.com/chisan01/">
